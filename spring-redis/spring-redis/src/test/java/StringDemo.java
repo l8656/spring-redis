@@ -18,7 +18,7 @@ public class StringDemo {
     @Test
     public void testGetValue(){
         System.out.println("hello");
-//        redisTemplate.delete("brandList");
+        redisTemplate.delete("brandList");
 //        redisTemplate.delete("specList");
 //        redisTemplate.delete("content");
        //System.out.println(redisTemplate.boundHashOps("brandList").get(35l));
