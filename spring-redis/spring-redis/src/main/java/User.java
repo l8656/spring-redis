@@ -7,6 +7,6 @@ public class User {
     private String addr;
 
     public void say(){
-        System.out.println("hello git");
+        System.out.println("hello you");
     }
 }
