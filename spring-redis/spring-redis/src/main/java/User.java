@@ -15,5 +15,6 @@ public class User {
     public void say(){
         System.out.println("hello you222222222222333333");
         System.out.println("hello you222");
+        System.out.println(666);
     }
 }
