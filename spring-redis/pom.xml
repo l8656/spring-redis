@@ -33,7 +33,7 @@
             <artifactId>spring-test</artifactId>
             <version>4.2.4.RELEASE</version>
         </dependency>
-        <!-- 缓存 -->
+        <!-- 缓存 11-->
         <dependency>
             <groupId>redis.clients</groupId>
             <artifactId>jedis</artifactId>
